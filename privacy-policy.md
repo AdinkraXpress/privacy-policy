@@ -9,9 +9,7 @@ For a better experience, while using our Service, you may require to provide us 
 ### Link to the privacy policy of third-party service providers used by the app
 
 - Google Play Services
-- AdMob
 - Google Analytics for Firebase
-- Facebook
 
 ## Log Data
 
