@@ -41,4 +41,4 @@ This policy is effective as of 2023-04-14
 
 ## Contact Us
 
-If you have any questions or suggestions about AdinkraXpress Privacy Policy, do not hesitate to contact me at adinkraxpress360@gmail.com.
+If you have any questions about AdinkraXpress Privacy Policy, do not hesitate to contact me at adinkraxpress360@gmail.com.
